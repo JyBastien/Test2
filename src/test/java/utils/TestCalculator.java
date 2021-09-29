@@ -46,7 +46,7 @@ public class TestCalculator {
         int x = 2;
         int y = 4;
         Calculator instance = new Calculator();
-        int expResult = 5;
+        int expResult = 6;
         int result = instance.add(x, y);
         assertEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
