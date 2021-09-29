@@ -16,9 +16,9 @@ import static org.junit.Assert.*;
  *
  * @author ThinkCenter
  */
-public class CalculatorIT {
+public class TestCalculator {
     
-    public CalculatorIT() {
+    public TestCalculator() {
     }
     
     @BeforeClass
